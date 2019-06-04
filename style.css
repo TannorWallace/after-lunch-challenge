@@ -1,15 +1,43 @@
 header{
   text-align: center;
   color:white;
-  background: rgb(17, 17, 109);
+  background: darkblue;
   border: solid black 2px;
 }
 
 .title2{
   text-align: center;
 }
+.para1{
+ 
+  width: 45vh;
+  height: 80vh;
+  font-family: "Times New Roman", Times, serif;
+  margin:auto;
+ 
+}
 
+hr{
+  width: 45vh;
+  height: 10px;
+ background-color:cadetblue;
+}
+.aside1{
+  height: 25vh;
+  width: 25vh;
+  position: relative;
+  left: 450px;
+  bottom:550px;
+}
+.pic{
+    height: 25vh;
+  width: 25vh;
+  position: relative;
+  left: 450px;
+  bottom:500px;
+}
 .foot{
-  background: blue;
+  background: darkblue;
   border: solid black 2px;
+  height: 30vh;
 }
