@@ -10,15 +10,15 @@ header{
 }
 .para1{
  
-  width: 45vh;
-  height: 80vh;
+  width: 55vh;
+  height: 70vh;
   font-family: "Times New Roman", Times, serif;
   margin:auto;
  
 }
 
 hr{
-  width: 45vh;
+  width: 55vh;
   height: 10px;
  background-color:cadetblue;
 }
@@ -39,5 +39,6 @@ hr{
 .foot{
   background: darkblue;
   border: solid black 2px;
-  height: 30vh;
+  height: 40vh;
+  bottom:400px;
 }
