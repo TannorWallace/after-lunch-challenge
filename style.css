@@ -1,0 +1,15 @@
+header{
+  text-align: center;
+  color:white;
+  background: rgb(17, 17, 109);
+  border: solid black 2px;
+}
+
+.title2{
+  text-align: center;
+}
+
+.foot{
+  background: blue;
+  border: solid black 2px;
+}
