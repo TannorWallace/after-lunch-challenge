@@ -34,18 +34,19 @@ hr{
 /* .pic{
   bottom:95px;
 } */
- .aside1 h3 {
- text-align: center;
+ h3 {
+  text-align: center;
  } 
 .para1{
-      padding-left: 25vw;
+ padding-left: 25vw;
 }
 aside{
   float:right;
+  padding-right: 35px;
  }
 
  .pic, .aside1{
-   font-size: .75em;
+   font-size: .85em;
       /* padding-left: 4.5vw; */
       /* padding-top:1.5vw; */ 
      } 
