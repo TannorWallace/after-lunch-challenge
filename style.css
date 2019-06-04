@@ -27,27 +27,28 @@ main aside{
   width: 25vw;
 }
 hr{
-  width: 65vh;
+  width: 75vh;
   height: 10px;
  background-color:cadetblue;
 }
-
+/* .pic{
+  bottom:95px;
+} */
  .aside1 h3 {
  text-align: center;
- 
-} 
+ } 
 .para1{
       padding-left: 25vw;
 }
+aside{
+  float:right;
+ }
 
  .pic, .aside1{
-      padding-left: 4.5vw;
-      padding-bottom:6vw;
+   font-size: .75em;
+      /* padding-left: 4.5vw; */
+      /* padding-top:1.5vw; */ 
      } 
-
-p{
-
-}
 
 .foot{
   background: darkblue;
